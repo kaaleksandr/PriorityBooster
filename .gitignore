@@ -31,3 +31,8 @@
 *.out
 *.app
 /PriorityBooster/.vs
+/PriorityBooster/PriorityBooster/x64/Debug
+/PriorityBooster/PriorityBooster/Debug
+/PriorityBooster/Booster/Booster.vcxproj.user
+/PriorityBooster/Booster/x64/Debug
+/PriorityBooster/x64/Debug
